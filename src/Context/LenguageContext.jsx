@@ -65,6 +65,8 @@ const translations = {
     ],
     footer: "©2023 | Diseñado y codificado por Jerry Garcia",
     technoligi: "Tecnologías",
+    viewWeb: "ir a web",
+    viewLayout:"ver maquetación"
   },
   en: {
     homeTitle: "hello, I am Jerry",
@@ -123,6 +125,8 @@ const translations = {
     ],
     footer: "©2023 | Designed and coded by Jerry Garcia",
     technoligi: "Technologies",
+    viewWeb: "go to website",
+    viewLayout:"see layout"
   },
 };
 

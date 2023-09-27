@@ -5,7 +5,7 @@ import { useContext } from "react";
 import LenguageContext from "../Context/LenguageContext";
 
 /* eslint-disable react/prop-types */
-const ModalProyects = ({ cardContent }) => {
+const ModalProyects = ({ cardContent, cardBtnName }) => {
   const [isOpenModal, openModel, closedModel] = useModal(false);
   const { texts } = useContext(LenguageContext);
   return (
@@ -24,7 +24,7 @@ const ModalProyects = ({ cardContent }) => {
           <h3>
             {texts.technoligi}: {cardContent.tecnologia}
           </h3>
-          <a href={cardContent.link} target="_blank">Ir a Web</a>
+          <a href={cardContent.link} target="_blank">{cardBtnName}</a>
         </div>
       </ModalProyect>
     </>
