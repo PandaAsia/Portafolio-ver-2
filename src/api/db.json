@@ -1,0 +1,102 @@
+{
+  "ProyectWebEs": [
+    {
+      "id": "Proweb01",
+      "nombre": "Sociable OFT",
+      "descripcion": "Sociable OFT es una empresa de software, cuya funcionalidad es de desarrollo de páginas web hacia otras empresas, era un proyecto que inicio gracias a un compañero de la universidad, mi participación fue en la parte de maquetación y desarrollo de esta web, mientras mi compañero es de back-end. En esta experiencia aprendí sobre conceptos básicos del desarrollo web.",
+      "tecnologia": "Adobe XD, HTML, CSS, Java Scrips",
+      "link": "https://myanimelist.net/anime/709/Mujin_Wakusei_Survive?q=muji&cat=anime",
+      "img": "https://raw.githubusercontent.com/PandaAsia/Portadas01/main/proyect06.jpg"
+    },
+    {
+      "id": "Proweb02",
+      "nombre": "Gfriend",
+      "descripcion": "Una vez aprendió sobre los fundamentos del desarrollo web, realice un página muy básica que mi grupo musical favorito, aprendí también sobre la maquetación, como novato, el diseño está inspirado de otra página web, y al terminar aún me falta mucho que aprender.",
+      "tecnologia": "Adobe XD, HTML, CSS",
+      "link": "https://myanimelist.net/character/1555/Hinata_Hyuuga",
+      "img": "https://raw.githubusercontent.com/PandaAsia/Portadas01/main/proyect03.jpg"
+    },
+    {
+      "id": "Proweb03",
+      "nombre": "Elimar Moda",
+      "descripcion": "Elimar Moda es una empresa de costureros, realizar trajes y vestido a medida, ellos necesitaban una página web, un e-commerce, para poder vender sus productos, era una gran oportunidad para ellos, este proyecto me encargué en la parte de front-end, aprendí más temas de css, como son lo flexbox y grid, y animación, y fundamento de javascrips.",
+      "tecnologia": "Adobe XD, HTML, CSS, Java Scrips",
+      "link": "https://myanimelist.net/anime/709/Mujin_Wakusei_Survive?q=muji&cat=anime",
+      "img": "https://raw.githubusercontent.com/PandaAsia/Portadas01/main/proyect04.jpg"
+    },
+    {
+      "id": "Proweb04",
+      "nombre": "Prueba Stroop",
+      "descripcion": "Al aprender los fundamentos de javascrip, desarrolle una web, la inspiración fue la prueba stroop, una evaluación de test cognitivo, que evalúa la atención, pude replicar todas las funciones como reglas del test, donde al final te muestra un resultado, con el proyecto me di cuenta lo mucho que me falta, para realizar proyecto muy grandes debo tener conocimiento más sólido.",
+      "tecnologia": "HTML, CSS, Java Scrip",
+      "link": "https://myanimelist.net/character/1555/Hinata_Hyuuga",
+      "img": "https://raw.githubusercontent.com/PandaAsia/Portadas01/main/proyect05.jpg"
+    },
+    {
+      "id": "Proweb05",
+      "nombre": "Portafolio CV ver.1",
+      "descripcion": "Cuando obtuve los conocimientos necesarios, pude realizar mi portafolio personalizado, en este proyecto, me inspire de varios portafolios, como agregar animaciones únicas como estilo, que demostrara el conocimiento adquirido en ese momento.",
+      "tecnologia": "Figma, Photoshop, Illustrator, Html, Css, Javascrip",
+      "link": "https://myanimelist.net/anime/709/Mujin_Wakusei_Survive?q=muji&cat=anime",
+      "img": "https://raw.githubusercontent.com/PandaAsia/Portadas01/main/proyect01.jpg"
+    },
+    {
+      "id": "Proweb06",
+      "nombre": "Anime-Folder",
+      "descripcion": "Es un Proyecto Personal de anime, este proyecto lo diseñe como desarrolle en la parte de front-end y es estática, ya que aún me falta varios conocimientos de back-end para poder completarlo, pero lo voy a continuar, pero avanzando poco a poco, cuando voy adquiriendo conocimientos.",
+      "tecnologia": "Figma, Html, css, javascrips",
+      "link": "https://myanimelist.net/character/1555/Hinata_Hyuuga",
+      "img": "https://raw.githubusercontent.com/PandaAsia/Portadas01/main/proyect02.jpg"
+    }
+  ],
+  "ProyectWebEn": [
+    {
+      "id": "Proweb01",
+      "nombre": "Sociable OFT",
+      "descripcion": "Sociable OFT is a software company, whose functionality is to develop web pages for other companies. It was a project that I started thanks to a university classmate. My participation was in the layout and development of this website, while my classmate It's back-end. In this experience I learned about basic concepts of web development.",
+      "tecnologia": "Adobe XD, HTML, CSS, Java Scrips",
+      "link": "https://myanimelist.net/anime/709/Mujin_Wakusei_Survive?q=muji&cat=anime",
+      "img": "https://raw.githubusercontent.com/PandaAsia/Portadas01/main/proyect06.jpg"
+    },
+    {
+      "id": "Proweb02",
+      "nombre": "Gfriend",
+      "descripcion": "Once I learned about the fundamentals of web development, I made a very basic page for my favorite musical group, I also learned about layout, as a newbie, the design is inspired from another web page, and when I finish I still have a lot to learn.",
+      "tecnologia": "Adobe XD, HTML, CSS",
+      "link": "https://myanimelist.net/character/145/Sakura_Haruno",
+      "img": "https://raw.githubusercontent.com/PandaAsia/Portadas01/main/proyect03.jpg"
+    },
+    {
+      "id": "Proweb03",
+      "nombre": "Elimar Moda",
+      "descripcion": "Elimar Moda is a company of seamstresses, making custom suits and dresses, they needed a website, an e-commerce, to be able to sell their products, it was a great opportunity for them, I was in charge of this project on the front-end part , I learned more CSS topics, such as flexbox and grid, and animation, and the foundation of javascript.",
+      "tecnologia": "Adobe XD, HTML, CSS, Java Scrips",
+      "link": "https://myanimelist.net/anime/709/Mujin_Wakusei_Survive?q=muji&cat=anime",
+      "img": "https://raw.githubusercontent.com/PandaAsia/Portadas01/main/proyect04.jpg"
+    },
+    {
+      "id": "Proweb04",
+      "nombre": "Test Stroop",
+      "descripcion": "When learning the fundamentals of javascrip, I developed a website, the inspiration was the stroop test, a cognitive test evaluation, which evaluates attention, I was able to replicate all the functions as rules of the test, where at the end it shows you a result, with the project I realized how much I lack, to carry out very large projects I must have more solid knowledge.",
+      "tecnologia": "HTML, CSS, Java Scrip",
+      "link": "https://myanimelist.net/character/145/Sakura_Haruno",
+      "img": "https://raw.githubusercontent.com/PandaAsia/Portadas01/main/proyect05.jpg"
+    },
+    {
+      "id": "Proweb05",
+      "nombre": "CV Portfolio ver.1",
+      "descripcion": "When I obtained the necessary knowledge, I was able to make my personalized portfolio. In this project, I was inspired by several portfolios, such as adding unique animations as a style, which demonstrated the knowledge acquired at that time.",
+      "tecnologia": "Figma, Photoshop, Illustrator, Html, Css, Javascrip",
+      "link": "https://myanimelist.net/anime/709/Mujin_Wakusei_Survive?q=muji&cat=anime",
+      "img": "https://raw.githubusercontent.com/PandaAsia/Portadas01/main/proyect01.jpg"
+    },
+    {
+      "id": "Proweb06",
+      "nombre": "Anime-Folder",
+      "descripcion": "It is a Personal Anime Project, I designed this project as I developed in the front-end part and it is static, since I still lack some back-end knowledge to be able to complete it, but I am going to continue it, but advancing little by little , when I am acquiring knowledge.",
+      "tecnologia": "Figma, Html, css, javascrips",
+      "link": "https://myanimelist.net/character/145/Sakura_Haruno",
+      "img": "https://raw.githubusercontent.com/PandaAsia/Portadas01/main/proyect02.jpg"
+    }
+  ]
+}
