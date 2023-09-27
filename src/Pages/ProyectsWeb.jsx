@@ -3,7 +3,6 @@ import LenguageContext from "../Context/LenguageContext";
 import ModalProyects from "../Component/ModalProyects.jsx";
 
 const ProyectWeb = () => {
-
   const { texts }=useContext(LenguageContext);
   const { proWeb } = useContext(LenguageContext);
   return (

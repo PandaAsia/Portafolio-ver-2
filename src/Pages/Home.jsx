@@ -18,7 +18,7 @@ const Home = () => {
             <a href="https://github.com/PandaAsia" target="_blank">
               <i className="bx bxl-github"></i>
             </a>
-            <a href="www.linkedin.com/in/garciatantajerryanthony" target="_blank">
+            <a href="https://www.linkedin.com/in/garciatantajerryanthony/" target="_blank">
               <i className="bx bxl-linkedin-square"></i>
             </a>
           </div>
