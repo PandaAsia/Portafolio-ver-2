@@ -25,6 +25,10 @@ const Skills = () => {
           <h5>REACT</h5>
         </div>
         <div className="logo-cvg">
+          <i className="bx bxl-bootstrap"></i>
+          <h5>Bootstrap</h5>
+        </div>
+        <div className="logo-cvg">
           <i className="bx bxl-figma"></i>
           <h5>FIGMA</h5>
         </div>

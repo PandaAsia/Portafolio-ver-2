@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import LenguageContext from "../Context/LenguageContext";
 import foto from "../assets/foto.png";
-import pdf from "../assets/Garcia Tanta Jerry Anthony(CV).pdf"
+import pdf from "../assets/Garcia Tanta Jerry Anthony(CV).pdf";
 
 const Home = () => {
   const { texts } = useContext(LenguageContext);
@@ -15,14 +15,29 @@ const Home = () => {
           </h3>
           <p>{texts.homeContent}</p>
           <div className="home-social">
-            <a href="https://github.com/PandaAsia" target="_blank">
+            <a
+              href="https://github.com/PandaAsia"
+              target="_blank"
+              rel="noreferrer"
+            >
               <i className="bx bxl-github"></i>
             </a>
-            <a href="https://www.linkedin.com/in/garciatantajerryanthony/" target="_blank">
+            <a
+              href="https://www.linkedin.com/in/garciatantajerryanthony/"
+              target="_blank"
+              rel="noreferrer"
+            >
               <i className="bx bxl-linkedin-square"></i>
             </a>
           </div>
-          <a className="home-btn-dow" href={pdf} target="_blank">{texts.homebutton }</a>
+          <a
+            className="home-btn-dow"
+            href={pdf}
+            target="_blank"
+            rel="noreferrer"
+          >
+            {texts.homebutton}
+          </a>
         </div>
         <div className="home-photo">
           <img src={foto} alt="Photo jerry" />

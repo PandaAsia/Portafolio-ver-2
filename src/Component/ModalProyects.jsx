@@ -24,7 +24,9 @@ const ModalProyects = ({ cardContent, cardBtnName }) => {
           <h3>
             {texts.technoligi}: {cardContent.tecnologia}
           </h3>
-          <a href={cardContent.link} target="_blank">{cardBtnName}</a>
+          <a href={cardContent.link} target="_blank" rel="noreferrer">
+            {cardBtnName}
+          </a>
         </div>
       </ModalProyect>
     </>

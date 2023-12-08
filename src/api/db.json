@@ -1,10 +1,18 @@
 {
   "ProyectWebEs": [
     {
+      "id": "Proweb00",
+      "nombre": "Portafolio CV ver.2",
+      "descripcion": "Tuve que realizar un nuevo rediseño a mi portafolio, al aprender React, y como práctica, lo aplique en este nuevo proyecto, facilitando varios cosas que tenía planeado realizar, algo que mi portafolio anterior carecía.",
+      "tecnologia": "Figma, HTML, CSS, JavaScrips, React",
+      "link": "https://pandaasia.github.io/Portafolio-ver-2/",
+      "img": "https://raw.githubusercontent.com/PandaAsia/Portadas01/main/maqueta06.jpg"
+    },
+    {
       "id": "Proweb01",
       "nombre": "Sociable OFT",
       "descripcion": "Sociable OFT es una empresa de software, cuya funcionalidad es de desarrollo de páginas web hacia otras empresas, era un proyecto que inicio gracias a un compañero de la universidad, mi participación fue en la parte de maquetación y desarrollo de esta web, mientras mi compañero es de back-end. En esta experiencia aprendí sobre conceptos básicos del desarrollo web.",
-      "tecnologia": "Adobe XD, HTML, CSS, Java Scrips",
+      "tecnologia": "Adobe XD, HTML, CSS, JavaScrips",
       "link": "https://github.com/PandaAsia/Sociable/tree/main/sociable",
       "img": "https://raw.githubusercontent.com/PandaAsia/Portadas01/main/proyect06.jpg"
     },
@@ -42,14 +50,38 @@
     },
     {
       "id": "Proweb06",
-      "nombre": "Anime-Folder",
+      "nombre": "Anime",
       "descripcion": "Es un Proyecto Personal de anime, este proyecto lo diseñe como desarrolle en la parte de front-end y es estática, ya que aún me falta varios conocimientos de back-end para poder completarlo, pero lo voy a continuar, pero avanzando poco a poco, cuando voy adquiriendo conocimientos.",
       "tecnologia": "Figma, Html, css, javascrips",
-      "link": "https://github.com/PandaAsia/AnimeWeb",
+      "link": "https://pandaasia.github.io/AnimeWeb/",
       "img": "https://raw.githubusercontent.com/PandaAsia/Portadas01/main/proyect02.jpg"
+    },
+    {
+      "id": "Proweb07",
+      "nombre": "Anime-Folder",
+      "descripcion": "Es un Proyecto Personal de anime, este proyecto utilice la API jikan, que es un repositorio de anime, diseñe una página, para mostrar toda la información, en el proyecto aprendí Bootstrap, para la maquetación de la página, reforcé mis conocimiento en React, un proyecto que disfrute desarropando.",
+      "tecnologia": "Figma, Html, css, javascrips, React, Bootstrap",
+      "link": "https://pandaasia.github.io/AnimeFolder/",
+      "img": "https://raw.githubusercontent.com/PandaAsia/Portadas01/main/proyect07.jpg"
+    },
+    {
+      "id": "Proweb08",
+      "nombre": "Pokemos Favoritos",
+      "descripcion": "Bienvenido a nuestro portal Pokémon, el destino definitivo para los amantes de estas fascinantes criaturas. Aquí, encontrarás la herramienta perfecta para descubrir a tu compañero Pokémon ideal. Organizados por tipo y generación, nuestra extensa base de datos te permite explorar y seleccionar entre una variedad de Pokémon. ¡Empieza tu viaje y encuentra a tu Pokémon favorito hoy mismo!",
+      "tecnologia": "Figma, Html, css, javascrips, React",
+      "link": "https://pandaasia.github.io/Favorite-Pokemon/",
+      "img": "https://raw.githubusercontent.com/PandaAsia/Portadas01/main/proyect08.jpg"
     }
   ],
   "ProyectWebEn": [
+    {
+      "id": "Proweb00",
+      "nombre": "Portafolio CV ver.2",
+      "descripcion": "I had to make a new redesign to my portfolio, by learning React, and as a practice, I applied it in this new project, facilitating several things that I had planned to do, something that my previous portfolio lacked.",
+      "tecnologia": "Figma, HTML, CSS, JavaScrips, React",
+      "link": "https://pandaasia.github.io/Portafolio-ver-2/",
+      "img": "https://raw.githubusercontent.com/PandaAsia/Portadas01/main/maqueta06.jpg"
+    },
     {
       "id": "Proweb01",
       "nombre": "Sociable OFT",
@@ -92,11 +124,27 @@
     },
     {
       "id": "Proweb06",
-      "nombre": "Anime-Folder",
+      "nombre": "Anime",
       "descripcion": "It is a Personal Anime Project, I designed this project as I developed in the front-end part and it is static, since I still lack some back-end knowledge to be able to complete it, but I am going to continue it, but advancing little by little , when I am acquiring knowledge.",
       "tecnologia": "Figma, Html, css, javascrips",
-      "link": "https://github.com/PandaAsia/AnimeWeb",
+      "link": "https://pandaasia.github.io/AnimeWeb/",
       "img": "https://raw.githubusercontent.com/PandaAsia/Portadas01/main/proyect02.jpg"
+    },
+    {
+      "id": "Proweb07",
+      "nombre": "Anime-Folder",
+      "descripcion": "It is a Personal Anime Project, this project uses the jikan API, which is an anime repository, I designed a page to display all the information, in the project I learned Bootstrap, for the layout of the page, I reinforced my knowledge in React, a project that you enjoy developing.",
+      "tecnologia": "Figma, Html, css, javascrips, React, Bootstrap",
+      "link": "https://pandaasia.github.io/AnimeFolder/",
+      "img": "https://raw.githubusercontent.com/PandaAsia/Portadas01/main/proyect07.jpg"
+    },
+    {
+      "id": "Proweb08",
+      "nombre": "Favorite Pokemos",
+      "descripcion": "Welcome to our Pokémon portal, the definitive destination for lovers of these fascinating creatures. Here, you will find the perfect tool to discover your ideal Pokémon partner. Organized by type and generation, our extensive database allows you to explore and select from a variety of Pokémon. Start your journey and find your favorite Pokémon today!",
+      "tecnologia": "Figma, Html, css, javascrips, React",
+      "link": "https://pandaasia.github.io/Favorite-Pokemon/",
+      "img": "https://raw.githubusercontent.com/PandaAsia/Portadas01/main/proyect08.jpg"
     }
   ]
 }
